@@ -8,7 +8,7 @@ public class Client
     // You should run client on netprog1, and server on netprog2
     // change localhost to the where the server is running, which is netprog2
     private static final String HOST = "netprog2.csit.rmit.edu.au";
-    private static final int PORT = 61174; // make sure the client and server running
+    private static final int PORT = 61128; // make sure the client and server running
                                     // on the same port, this should be one of the two
                                     // port numbers that you are allocated to
 
