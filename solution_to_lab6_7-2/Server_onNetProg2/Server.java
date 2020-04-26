@@ -19,7 +19,7 @@ public class Server
 
         try {
                                         // use the port number that you are allocated to
-            serverSocket = new ServerSocket(61174); // Binds to the server port
+            serverSocket = new ServerSocket(61128); // Binds to the server port
 
             while(true)
             {
